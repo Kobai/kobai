@@ -1,13 +1,15 @@
 ### Hi, I'm Kobai
 
 
-
-## About me:
-- Engineer @ [Super.com](https://www.super.com/)
-- Production breaker @ [optcg.gg](https://www.optcg.gg/)
-- Interested in Data Engineering 
-
 ![alt text](https://media.tenor.com/FPvhsv3nFQkAAAAC/kaido-one-piece.gif)
+
+## About Me:
+- Interested in Data Engineering
+- Production breaker @ [optcg.gg](https://www.optcg.gg/)
+- Engineer @ [Super.com](https://www.super.com/)
+ 
+
+
 <!--
 **Kobai/kobai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
