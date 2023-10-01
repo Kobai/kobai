@@ -1,6 +1,8 @@
+### Hi, I'm Kobai
+
 ![alt text](https://media.tenor.com/FPvhsv3nFQkAAAAC/kaido-one-piece.gif)
 
-Breaking production @ [optcg.gg](https://www.optcg.gg/)
+I break production @ [optcg.gg](https://www.optcg.gg/)
 <!--
 **Kobai/kobai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
