@@ -2,7 +2,10 @@
 
 
 
-I break production @ [optcg.gg](https://www.optcg.gg/)
+## About me:
+- Engineer @ [Super.com](https://www.super.com/)
+- Production breaker @ [optcg.gg](https://www.optcg.gg/)
+- Interested in Data Engineering 
 
 ![alt text](https://media.tenor.com/FPvhsv3nFQkAAAAC/kaido-one-piece.gif)
 <!--
