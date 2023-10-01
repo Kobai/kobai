@@ -4,7 +4,7 @@
 ![alt text](https://media.tenor.com/FPvhsv3nFQkAAAAC/kaido-one-piece.gif)
 
 ## About Me:
-- Interested in Data Engineering
+- Interested in Data/Platform Engineering and building products that can scale
 - Production breaker @ [optcg.gg](https://www.optcg.gg/)
 - Engineer @ [Super.com](https://www.super.com/)
  
