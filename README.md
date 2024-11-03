@@ -1,7 +1,7 @@
 ### Hi, I'm Kobai
 
 
-![alt text](https://media.tenor.com/FPvhsv3nFQkAAAAC/kaido-one-piece.gif)
+![alt text](https://i.imgur.com/KMf8XsG.png)
 
 ## About Me:
 - Interested in Data/Platform Engineering and building products that can scale
