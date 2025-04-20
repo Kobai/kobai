@@ -4,7 +4,6 @@
 ![alt text](https://i.imgur.com/KMf8XsG.png)
 
 ## About Me:
-- Interested in Data/Platform Engineering and building products that can scale
 - Production breaker @ [optcg.gg](https://www.optcg.gg/)
 - Engineer @ [Super.com](https://www.super.com/)
  
