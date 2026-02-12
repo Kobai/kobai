@@ -5,7 +5,7 @@
 
 ## About Me:
 - Production breaker @ [optcg.gg](https://www.optcg.gg/)
-- Engineer @ [Super.com](https://www.super.com/)
+- Engineer @ [Coinbase](https://www.coinbase.com/)
  
 
 
