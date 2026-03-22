@@ -1,8 +1,5 @@
 ### Hi, I'm Kobai
 
-
-![alt text](https://i.imgur.com/KMf8XsG.png)
-
 ## About Me:
 - Production breaker @ [optcg.gg](https://www.optcg.gg/)
 - Engineer @ [Coinbase](https://www.coinbase.com/)
